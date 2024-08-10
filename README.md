@@ -4,6 +4,10 @@ Este é um projeto de uma calculadora funcional que replica o visual e a experi�
 
 ![Calculadora iPhone](./assets/screenshot-app.png)
 
+## 🚀 Demonstração
+
+Você pode ver a aplicação em funcionamento [aqui](https://digonexs.github.io/apple-calculator/).
+
 ## 🎯 Funcionalidades
 
 - **Interface Responsiva**: A calculadora se adapta a diferentes tamanhos de tela, garantindo uma experiência consistente em dispositivos móveis e desktops.
